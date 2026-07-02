@@ -6,7 +6,7 @@ This folder contains the study materials used to set up and run the online visua
 
 | Folder | Contents |
 |---|---|
-| `participant-information/` | Participant information sheet, consent form, and debrief materials |
+
 | `qualtrics/` | Qualtrics survey export and survey-flow documentation |
 | `stimuli/` | Final stimuli, source files, and stimulus metadata |
 
