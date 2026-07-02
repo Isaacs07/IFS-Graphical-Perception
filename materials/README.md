@@ -12,5 +12,5 @@ This folder contains the study materials used to set up and run the online visua
 
 ## Notes
 
-These materials document the participant-facing and study-facing components of the experiment. A disclaimer, all this information was moved onto Qualtrics.
+These materials document the participant-facing and study-facing components of the experiment. A disclaimer, all this information was moved onto ** Qualtrics** which served as our official space for all matters regarding consent. 
 
