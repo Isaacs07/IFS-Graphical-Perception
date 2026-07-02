@@ -7,7 +7,7 @@ The study is a replication and follow-up of Cleveland and McGill’s classic gra
 1. estimating one chart value as a percentage of another chart value;
 2. estimating one chart value as a percentage of the whole chart.
 
-The study is being conducted as part of a PhD Data Visualisation research project at City St George’s, University of London, in collaboration with the University of Warwick.
+The study is being conducted as part of a PhD Data Visualization research project at City St George’s, University of London, in collaboration with the University of Warwick.
 
 ## Materials
 
